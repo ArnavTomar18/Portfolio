@@ -888,5 +888,6 @@ document.addEventListener('keydown', (e) => {
 });
 
 // Console welcome message
-console.log('%c👋 Welcome to Arnav Sharma\'s Portfolio!', 'color: #3b82f6; font-size: 16px; font-weight: bold;');
+console.log('%c👋 Welcome to Arnav Tomar\'s Portfolio!', 'color: #3b82f6; font-size: 16px; font-weight: bold;');
+
 console.log('%cInterested in the code? Check out the source on GitHub!', 'color: #64748b; font-size: 14px;');
